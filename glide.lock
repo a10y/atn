@@ -1,0 +1,8 @@
+hash: de1873ae6207bb7b49429fa8e1c598a1ce504c02414efd83f6ae944d2bf829e5
+updated: 2017-05-02T13:16:16.057073709-07:00
+imports:
+- name: github.com/google/subcommands
+  version: ce3d4cfc062faac7115d44e5befec8b5a08c3faa
+- name: github.com/hashicorp/mdns
+  version: 4e527d9d808175f132f949523e640c699e4253bb
+testImports: []

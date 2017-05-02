@@ -1,0 +1,4 @@
+package: github.com/a10y/atn
+import:
+- package: github.com/hashicorp/mdns
+- package: github.com/google/subcommands
